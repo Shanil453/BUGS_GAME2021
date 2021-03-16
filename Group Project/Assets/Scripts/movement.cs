@@ -13,6 +13,7 @@ public class movement : MonoBehaviour
     Rigidbody rbody;
     Vector3 origin;
 
+
     bool antigravActive;
     //determines how long the button can be held
     int jumptime = 0;
