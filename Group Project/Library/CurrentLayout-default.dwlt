@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 119
+  controlID: 66
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 403
     height: 712
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 54
+  controlID: 67
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 55
+  controlID: 68
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,14 +317,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Unity\UnityProjects\Group Project
+  m_LastProjectPath: D:\Unity\UnityProjects\BUGS_GAME2021\Group Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 5ce10000
-    m_LastClickedID: 57692
-    m_ExpandedIDs: 00000000ba3c00002e3d0000343d000000ca9a3b
+    m_SelectedIDs: 8e3b0000
+    m_LastClickedID: 15246
+    m_ExpandedIDs: 00000000523b0000543b0000843b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -352,7 +352,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000523b0000543b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -445,7 +445,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 423
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -474,10 +474,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 6049ffff
-      m_LastClickedID: -46752
-      m_ExpandedIDs: 6049ffff9a4affffb065ffff3867ffff8269ffff586fffff36fbffff4edf0000c0657610
+      scrollPos: {x: 0, y: 722}
+      m_SelectedIDs: 9ce8ffff
+      m_LastClickedID: -5988
+      m_ExpandedIDs: 4af5ffff5efbffffdc3b0000363d0000043e00000e400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -589,9 +589,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.2239001, y: -0.14237165, z: 0.03308111, w: 0.96358955}
   m_Size:
-    m_Target: 14.6808405
+    m_Target: 18.294998
     speed: 2
-    m_Value: 14.6808405
+    m_Value: 17.507175
   m_Ortho:
     m_Target: 0
     speed: 2
